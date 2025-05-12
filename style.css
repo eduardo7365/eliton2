@@ -19,6 +19,9 @@
     box-sizing: border-box;
     font-family: var(--font-body);
 }
+ 
+
+button:hover {
 
 /* Corpo da página */
 body {
@@ -38,15 +41,19 @@ p {
 img {
     max-width: 90%;
 }
+  border-radius: ______;
+  transition: ______;
+}
 
-/* código omitido */
+button:hover {
 button {
   background-color: ______;
   color: ______;
   border-radius: ______;
   transition: ______;
 }
-
+}
+/* código omitido */
 button:hover {
   ________________: #2980b9;
 }
@@ -71,4 +78,4 @@ button:hover {
     .cta-button {
         width: 100%;
     }
-/* código omitido */
+}
