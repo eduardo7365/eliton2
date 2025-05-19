@@ -32,12 +32,12 @@ p {
 }
 
 img {
-    max-width: 90%;
+    max-width: 30%;
 }
 
 @media (max-width: 768px) {
     .conteudo {
-        width: 30%;
+        width: 90%;
     }
 
     nav ul {
