@@ -15,7 +15,6 @@
     box-sizing: border-box;
     font-family: var(--font-body);
 }
-button:hover {
 
 body {
     background-color: var(--background-color);
