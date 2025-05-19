@@ -9,15 +9,12 @@
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: var(--font-body);
 }
- 
-
 button:hover {
 
 body {
@@ -37,21 +34,6 @@ p {
 
 img {
     max-width: 90%;
-}
-  border-radius: ______;
-  transition: ______;
-}
-
-button:hover {
-button {
-  background-color: ______;
-  color: ______;
-  border-radius: ______;
-  transition: ______;
-}
-}
-button:hover {
-  ________________: #2980b9;
 }
 
 @media (max-width: 768px) {
