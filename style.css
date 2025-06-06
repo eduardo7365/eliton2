@@ -63,6 +63,11 @@ img:hover{
         width: 100%;
     }
 }
-header h1 {
-    color: white;
+header {
+    background-image: url('paiagemeliton.webp');
+    background-size: cover; /* A imagem irá cobrir toda a área do header */
+    background-position: center center; /* A imagem será centralizada */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    color: white; /* Garante que o texto seja visível sobre a imagem */
+    padding: 20px; /* Adiciona algum espaço interno no header */
 }
